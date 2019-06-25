@@ -4,7 +4,8 @@ Project 1 - A Random Quote Generator
 Developed by Hemant Kuruva.
 ******************************************/
 
-//The code also prevents printing of recurring quotes one after the other.
+
+//In addition to the 'Exceeds' grade features, the code carries an additional feature of preventing recurring quotes being printed one after the other.
 
 var prevQuoteIndex; //Stores index of the previous quote to prevent repetition of quotes.
 var interval1; //setInterval() id
