@@ -1,6 +1,6 @@
 /******************************************
 Random Quote Generator
-Developed by Hemant Kuruva.
+Developed by Hemant Kuruva
 ******************************************/
 
 
