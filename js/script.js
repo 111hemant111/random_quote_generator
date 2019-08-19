@@ -1,6 +1,5 @@
 /******************************************
-Treehouse FSJS Techdegree:
-Project 1 - A Random Quote Generator
+Random Quote Generator
 Developed by Hemant Kuruva.
 ******************************************/
 
